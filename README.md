@@ -1,6 +1,6 @@
 # Introductions
 
-Name: Irtimid
+Name: Irtimid Bouniol
 
 Favorite Color: Blue
 
