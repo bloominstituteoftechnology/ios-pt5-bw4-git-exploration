@@ -2,6 +2,6 @@
 
 Name: Irtimid Bouniol
 
-Favorite Color: Orange
+Favorite Color: Orange-Red
 
 Favorite Food: Pizza
